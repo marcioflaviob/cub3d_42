@@ -19,6 +19,7 @@ You add difficult math about angles and there you have it!
 ![raycasting](https://i.imgur.com/n7XHYzq.gif)
 
 ## Gameplay 🎮
+https://github.com/user-attachments/assets/02ef991c-a752-455b-995a-b284cd62b761
 
 
 ## Installation
